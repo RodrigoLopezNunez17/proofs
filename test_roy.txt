@@ -1,1 +1,3 @@
 Hello there, this is just a proof to practice my git and github skills.
+
+NOTE: This is the "firstbranch" branch.
